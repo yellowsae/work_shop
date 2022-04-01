@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "Layout"
+  name: 'LayoutIndex'
 }
 </script>
 
